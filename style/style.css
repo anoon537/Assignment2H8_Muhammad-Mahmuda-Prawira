@@ -1,0 +1,24 @@
+.container-md{
+    margin-top: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid #ccc;
+    background-color: silver;
+  }
+
+  .navbar {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  .nav-link:hover{
+    color: silver;
+    border: none;
+  }
+  .d-flex a{
+    margin-right: 10px;
+  }
+  .col{
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+    

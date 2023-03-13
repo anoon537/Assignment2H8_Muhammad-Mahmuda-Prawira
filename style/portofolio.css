@@ -1,0 +1,41 @@
+/* style untuk desktop */
+body{
+	background: #fafafa;
+}
+.navbar {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.nav-link:hover{
+  color: silver;
+  border: none;
+}
+
+.container-md{
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  border: 1px solid #ccc;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.col-md-4:not(:first-child) {
+  margin-top: 20px;
+}
+.col-md-4 p{
+  color: #ccc;
+}
+.col-md-4 h4{
+  font-weight: bold;
+}
+.h6{
+  font-weight: bold;
+}
+.abu{
+  color: #ccc;
+}
+
+
+
